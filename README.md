@@ -1,2 +1,9 @@
-# cmpe277-assignment6
-Temperature Converter App (Segue) - iOS
+# iOS - Segue
+##Learning Objective:
+Use Segue to establish communication between two scenes.
+
+##App Name:
+Temperature Converter App
+
+##Instructions:
+Enter temperature in Fahrenheit, press convert button. Goes to another scene, temperature is displayed in Celsius
