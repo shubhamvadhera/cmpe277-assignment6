@@ -1,12 +1,12 @@
 # iOS - Segue
-##Learning Objective:
+## Learning Objective:
 Use Segue to establish communication between two scenes.
 
-##App Name:
+## App Name:
 Temperature Converter App
 
-##Language:
+## Language:
 Swift
 
-##Instructions:
+## Instructions:
 Enter temperature in Fahrenheit, press convert button. Goes to another scene, temperature is displayed in Celsius
